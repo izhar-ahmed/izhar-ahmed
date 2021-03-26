@@ -7,7 +7,8 @@ I'm Izhar Ahmed, a Full-Stack Software Developer from India
   - Javascript
   - Node.js
   - MySQL
-  - GoLang
+  - MongoDB
+  - Git
   - ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
