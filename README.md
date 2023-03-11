@@ -5,6 +5,7 @@ I'm Izhar Ahmed, a Full-Stack Software Developer from India
   - HTML
   - CSS (SCSS)
   - Javascript
+  - React
   - Node.js
   - MySQL
   - MongoDB
@@ -19,4 +20,3 @@ I'm Izhar Ahmed, a Full-Stack Software Developer from India
   - Urdu
 - 📫 How to reach me: 
   - Email: izharahmed1280@gmail.com
-- 🌱 I’m currently preparing for interviews ...
