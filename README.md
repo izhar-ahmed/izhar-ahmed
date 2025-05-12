@@ -6,8 +6,11 @@ I'm Izhar Ahmed, a Full-Stack Software Developer from India
   - CSS (SCSS)
   - Javascript
   - Python
+  - Java
+  - Spring Boot
   - React
   - Node.js
+  - Express
   - MySQL
   - MongoDB
   - Git
